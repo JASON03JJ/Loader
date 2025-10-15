@@ -1,1 +1,10 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/JASON03JJ/SCRIPTHUB/refs/heads/main/MAIN"))()
+local scripts = {
+    [82321750197896] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/JASON03JJ/SCRIPTHUB/refs/heads/Games/PooP_A_Brainroot"))()]],
+    [11872917490] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/JASON03JJ/SCRIPTHUB/refs/heads/Games/Fable%20Legecy"))()]],
+    [14928194914] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/JASON03JJ/SCRIPTHUB/refs/heads/Games/Fable%20Legecy"))()]],
+}
+
+local id = game.PlaceId
+if scripts[id] then
+    loadstring(scripts[id])()
+end
