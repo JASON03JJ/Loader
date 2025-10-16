@@ -7,6 +7,7 @@ local scripts = {
     [79546208627805] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua", true))()]],
     [1537690962] = [[loadstring(game:HttpGet("https://macroware.cc/loader.lua"))()]],
     [13822889] = [[loadstring(game:HttpGet("https://rawscripts.net/raw/Lumber-Tycoon-2-Kron-Hub-20796"))()]],
+    [13772394625] = [[loadstring(game:HttpGet("https://soluna-script.vercel.app/bladeball.lua",true))()]],
 }
 
 local id = game.PlaceId
