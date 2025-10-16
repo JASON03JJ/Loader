@@ -3,6 +3,7 @@ local scripts = {
     [11872917490] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/JASON03JJ/SCRIPTHUB/refs/heads/Games/Fable%20Legecy"))()]],
     [14928194914] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/JASON03JJ/SCRIPTHUB/refs/heads/Games/Fable%20Legecy"))()]],
     [127742093697776] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()]],
+    [126884695634066] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()]],
 }
 
 local id = game.PlaceId
