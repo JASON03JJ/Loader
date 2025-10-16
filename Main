@@ -4,6 +4,9 @@ local scripts = {
     [14928194914] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/JASON03JJ/SCRIPTHUB/refs/heads/Games/Fable%20Legecy"))()]],
     [127742093697776] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()]],
     [126884695634066] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()]],
+    [79546208627805] = [[loadstring(game:HttpGet("https://raw.githubusercontent.com/VapeVoidware/VW-Add/main/nightsintheforest.lua", true))()]],
+    [1537690962] = [[loadstring(game:HttpGet("https://macroware.cc/loader.lua"))()]],
+    [13822889] = [[loadstring(game:HttpGet("https://rawscripts.net/raw/Lumber-Tycoon-2-Kron-Hub-20796"))()]],
 }
 
 local id = game.PlaceId
